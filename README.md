@@ -3,6 +3,8 @@
 ## Project Overview
 This project is part of Maven Analytics course "MS Power BI Desktop for Business Intelligence". The purpose of the project is to practice Power BI skills while working with data from Maven Market, a multi-national grocery chain. The goal was to work through the full BI workflow — from raw CSV files to a fully interactive dashboard — using industry‑standard techniques. This project simulates a real-world retail analytics scenario, focusing on transforming raw operational data into insights for decision‑making.
 
+Screenshots of the project are found in the Images-folder of this repo. 
+
 ## What I Learned
 - How to clean, transform, and model data using Power Query
 - How to design a proper star schema and manage relationships
@@ -15,8 +17,6 @@ This project is part of Maven Analytics course "MS Power BI Desktop for Business
 - Created new calculated columns (full names, birth year, discount price, address fields, date intelligence, etc.)
 - Combined 1997–1998 transaction files using folder import
 - Disabled refresh for lookup tables and applied all transformations
-
-![Data profiling](Images/Power Query Screenshot/Data profiling.jpg)
 
 ###Part 2: Data Modeling
 - Built a star schema with lookup tables (Customers, Products, Stores, Regions, Calendar) above fact tables (Transactions, Returns)
