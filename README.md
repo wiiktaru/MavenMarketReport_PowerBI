@@ -16,6 +16,8 @@ This project is part of Maven Analytics course "MS Power BI Desktop for Business
 - Combined 1997–1998 transaction files using folder import
 - Disabled refresh for lookup tables and applied all transformations
 
+![Data profiling](Images/Power Query Screenshot/Data profiling.jpg)
+
 ###Part 2: Data Modeling
 - Built a star schema with lookup tables (Customers, Products, Stores, Regions, Calendar) above fact tables (Transactions, Returns)
 - Created one‑to‑many, single‑direction relationships
