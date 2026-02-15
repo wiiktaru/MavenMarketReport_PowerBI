@@ -11,14 +11,14 @@ Screenshots of the project are found in the Images-folder of this repo.
 ... 
 
 ## Summary
-###Part 1: Data Preparation
+### Part 1: Data Preparation
 - Connected all Maven Market CSV files into Power BI
 - Cleaned and transformed data (data types, formatting, null handling)
 - Created new calculated columns (full names, birth year, discount price, address fields, date intelligence, etc.)
 - Combined 1997–1998 transaction files using folder import
 - Disabled refresh for lookup tables and applied all transformations
 
-###Part 2: Data Modeling
+### Part 2: Data Modeling
 - Built a star schema with lookup tables (Customers, Products, Stores, Regions, Calendar) above fact tables (Transactions, Returns)
 - Created one‑to‑many, single‑direction relationships
 - Added inactive relationship for stock date
@@ -33,10 +33,10 @@ Screenshots of the project are found in the Images-folder of this repo.
 - Total Transactions / Returns
 - Return Rate
 - Weekend Transactions & % Weekend
-... 
+- ... 
 
 ### Part 4: Building the Report (Not started yet)
-... 
+- ... 
 
 ## Tools used
 Power BI
@@ -44,4 +44,4 @@ Power BI
 - Data Modelling
 - DAX
 - Data Visualization
-CSV
+- CSV
